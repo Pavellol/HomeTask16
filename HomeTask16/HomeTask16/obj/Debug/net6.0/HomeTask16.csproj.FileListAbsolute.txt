@@ -1,0 +1,15 @@
+E:\C# projects\HomeTask16\HomeTask16\bin\Debug\net6.0\HomeTask16.exe
+E:\C# projects\HomeTask16\HomeTask16\bin\Debug\net6.0\HomeTask16.deps.json
+E:\C# projects\HomeTask16\HomeTask16\bin\Debug\net6.0\HomeTask16.runtimeconfig.json
+E:\C# projects\HomeTask16\HomeTask16\bin\Debug\net6.0\HomeTask16.dll
+E:\C# projects\HomeTask16\HomeTask16\bin\Debug\net6.0\ref\HomeTask16.dll
+E:\C# projects\HomeTask16\HomeTask16\bin\Debug\net6.0\HomeTask16.pdb
+E:\C# projects\HomeTask16\HomeTask16\obj\Debug\net6.0\HomeTask16.csproj.AssemblyReference.cache
+E:\C# projects\HomeTask16\HomeTask16\obj\Debug\net6.0\HomeTask16.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# projects\HomeTask16\HomeTask16\obj\Debug\net6.0\HomeTask16.AssemblyInfoInputs.cache
+E:\C# projects\HomeTask16\HomeTask16\obj\Debug\net6.0\HomeTask16.AssemblyInfo.cs
+E:\C# projects\HomeTask16\HomeTask16\obj\Debug\net6.0\HomeTask16.csproj.CoreCompileInputs.cache
+E:\C# projects\HomeTask16\HomeTask16\obj\Debug\net6.0\HomeTask16.dll
+E:\C# projects\HomeTask16\HomeTask16\obj\Debug\net6.0\ref\HomeTask16.dll
+E:\C# projects\HomeTask16\HomeTask16\obj\Debug\net6.0\HomeTask16.pdb
+E:\C# projects\HomeTask16\HomeTask16\obj\Debug\net6.0\HomeTask16.genruntimeconfig.cache
